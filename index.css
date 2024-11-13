@@ -1,0 +1,13 @@
+/* index.css or App.css */
+/* index.css */
+body {
+  background-color: #f0f0f0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: 'Herculanum';
+  src: url('../fonts/Herculanum.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
